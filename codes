@@ -1,0 +1,6 @@
+npm create vite@latest
+class-01-fundamentals
+
+cd class-01-fundamentals
+npm install
+npm run dev
