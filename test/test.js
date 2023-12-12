@@ -1,2 +1,3 @@
-let today = new Date();
-console.log(today);
+//função para contar palavras;
+function word() {
+}
